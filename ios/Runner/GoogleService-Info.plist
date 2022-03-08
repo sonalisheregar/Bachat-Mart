@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>277236241016-9gdc41633pjpbk7i2jln9vasnf621mvh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.277236241016-9gdc41633pjpbk7i2jln9vasnf621mvh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>277236241016-mhiamo6om8ah20ffqtj7bjns28r3s8ho.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWEgFVWScOzra6unq2DDDvJRWIG36bAaY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>277236241016</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bachatmart.store</string>
+	<key>PROJECT_ID</key>
+	<string>grocbay-c0de4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>grocbay-c0de4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:277236241016:ios:f4831e42aee1bdf363538d</string>
+	<key>DATABASE_URL</key>
+	<string>https://grocbay-c0de4.firebaseio.com</string>
+</dict>
+</plist>
